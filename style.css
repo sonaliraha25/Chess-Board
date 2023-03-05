@@ -1,0 +1,42 @@
+*{
+    margin:0;
+    padding:0;
+}
+.main{
+    height:1000px;
+    width:1000px;
+    background: paleturquoise;
+    position:relative;
+    margin:0 auto;
+    text-align: center;
+}
+.bb{
+    height:800px;
+    width:800px;
+    background: blueviolet;
+    position:absolute;
+    top:100px;
+    right:100px;
+    left:100px;
+    bottom:50px;
+}
+.white{
+    height:100px;
+    width:100px;
+    display: inline-block;
+    background: white;
+    float:left;
+     text-align: center;
+    font-size: 80px;
+
+}
+.black{
+    height:100px;
+    width:100px;
+    display: inline-block;
+    background: brown;
+    float:left;
+    text-align: center;
+    font-size: 80px;
+
+}
